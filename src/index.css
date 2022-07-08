@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* 
+body{
+  background-image: url('../src/2_resource/background3.jpg');
+  background-position:center;
+  background-repeat: no-repeat; Do not repeat the image */
+  /* background-size:cover;/* Resize the background image to cover the entire container */
+  /* height: 100%;
+  width: 100%;
+  margin: 0;
+ } */ 
